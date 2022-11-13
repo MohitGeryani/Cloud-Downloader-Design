@@ -1,4 +1,45 @@
-<style>
+
+
+.bdbx {
+width: 280px;
+height: 290px;
+color: grey;
+margin-left: ;
+background: white;
+border-radius: 8px;
+margin-top: 20px;
+border: 2px solid #f1f1f1;
+}
+.mimtype {
+width: 230px;
+height: 45px;
+margin-left: -15px;
+margin-top: -28px;
+border: 3px solid #f6f6f6;
+}
+.adj {
+
+margin-top: -8px;
+}
+.dbtn {
+background: white;
+color: green;
+width: 150px;
+height: 50px;
+outline: none;
+border: 1px solid green;
+border-radius: 8px;
+}
+.dbtn:hover {
+background: green;
+color: white;
+font-weight: bold;
+}
+#scrst {}
+
+
+
+
 .dchcontain { 
 background: white;
 color: lightgrey;
@@ -36,8 +77,7 @@ size: px;
 margin: 24px;
 size: 3px;
 text-align:center;
-</style>
-<style>
+}
 
 #conten {
 color: black;
@@ -53,6 +93,7 @@ width: 200px;
 text-align: center;
 left:0;
 top:0;
+}
 
 .mimtype {
 
