@@ -16,8 +16,8 @@ button.addEventListener('click', function(){
    button.innerHTML='Download'
      if(counter===0){
        clearInterval(tt);
-       window.location = "/Data/movies/Bollywood/2019/Baazaar%20%282018%29/Baazaar%20%282018%29%201080p.mkv";
-       window.open('https://rsuflix.blogspot.com');
+       window.location = "/";
+       window.open('https://google.com');
        return true;
      }
      
